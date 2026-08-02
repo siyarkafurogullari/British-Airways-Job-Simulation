@@ -26,7 +26,7 @@ This repository showcases two applied data science projects completed as part of
 Design a scalable, rule-based capacity demand framework for lounge operations at Heathrow Terminal 3, driven by flight schedules and passenger tier allocations, in order to reduce overcrowding risk and improve service-level predictability during peak travel periods.
 
 #### Tech Stack
-`Python` · `Pandas` · `NumPy` · `Jupyter Notebook` · Rule-Based Logic Design
+`Python` · `Pandas` · `NumPy` · `Jupyter Notebook` · `Rule-Based Logic Design`
 
 #### Methodology / Approach
 - Segmented incoming and outgoing flights into **short-haul** and **long-haul** distance categories to reflect differing passenger dwell-time and lounge-usage patterns.
