@@ -18,31 +18,6 @@ This repository showcases two applied data science projects completed as part of
 
 ---
 
-## 🗂️ Repository Architecture
-
-```
-british-airways-analytics-portfolio/
-│
-├── README.md                                    # You are here
-├── requirements.txt                              # Python dependencies for both projects
-│
-├── project-1-lounge-eligibility/
-│   ├── BA_Lounge_Eligibility_Modeling.ipynb       # Rule-based lounge capacity & eligibility model
-│   └── data/
-│       └── flight_schedule_sample.csv             # Sample flight schedule & tier allocation data
-│
-├── project-2-customer-conversion/
-│   ├── BA_Customer_Buying_Behavior_Prediction.ipynb  # ML pipeline: search-to-purchase conversion model
-│   ├── BA_Task2_Executive_Summary.pptx               # Executive briefing deck for stakeholders
-│   └── data/
-│       └── booking_search_history.csv                # 50,000+ record search/purchase dataset
-│
-└── assets/
-    └── images/                                    # Charts, plots, and visual exhibits referenced in notebooks
-```
-
----
-
 ## 🔍 Core Projects
 
 ### Project 01 — Heathrow Terminal 3 Lounge Capacity & Eligibility Modeling
@@ -64,8 +39,7 @@ Design a scalable, rule-based capacity demand framework for lounge operations at
 - A small number of peak-hour windows accounted for the majority of projected capacity breaches, pointing to targeted scheduling or capacity interventions rather than blanket expansion.
 - The rule-based structure generalizes cleanly, allowing the eligibility framework to be extended to other terminals or lounge tiers with minimal rework.
 
-#### Artifacts
-- 📓 [`BA_Lounge_Eligibility_Modeling.ipynb`](./project-1-lounge-eligibility/BA_Lounge_Eligibility_Modeling.ipynb)
+
 
 ---
 
@@ -90,9 +64,6 @@ Forecast passenger booking behavior and conversion probability using historical 
 - These findings directly informed a proposed **geo-marketing allocation strategy**, concentrating spend on high-propensity origin markets.
 - A **high-intent retargeting framework** was recommended for route-level segments showing elevated conversion probability but incomplete purchase funnels.
 
-#### Artifacts
-- 📓 [`BA_Customer_Buying_Behavior_Prediction.ipynb`](./project-2-customer-conversion/BA_Customer_Buying_Behavior_Prediction.ipynb)
-- 📽️ [`BA_Task2_Executive_Summary.pptx`](./project-2-customer-conversion/BA_Task2_Executive_Summary.pptx) — Executive briefing translating model metrics into geo-marketing and retargeting recommendations.
 
 ---
 
@@ -118,8 +89,7 @@ Forecast passenger booking behavior and conversion probability using historical 
 
 ## 🤝 Connect
 
-[LinkedIn](#) · [GitHub](#) · [Portfolio](#)
-
+[LinkedIn](https://www.linkedin.com/in/siyarkfl) 
 ---
 
 ⭐ If you found this portfolio insightful, consider starring the repository.
