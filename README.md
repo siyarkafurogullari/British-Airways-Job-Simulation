@@ -49,7 +49,7 @@ Design a scalable, rule-based capacity demand framework for lounge operations at
 Forecast passenger booking behavior and conversion probability using historical search and purchase data, enabling data-driven prioritization of marketing spend and customer targeting.
 
 #### Tech Stack
-`Python` · `Scikit-Learn` (Random Forest Classifier) · `Pandas` · `NumPy` · `Seaborn`
+`Python` · `Scikit-Learn` · `Random Forest Classifier` · `Pandas` · `NumPy` · `Seaborn`
 
 #### Methodology / Approach
 - Cleaned and engineered features from a dataset of **50,000+ historical search and purchase records**.
